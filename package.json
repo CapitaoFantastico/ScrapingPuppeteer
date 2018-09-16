@@ -1,0 +1,17 @@
+{
+  "name": "first-scraping",
+  "version": "1.0.0",
+  "description": "First Scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "ManOverboardxD",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
+}
